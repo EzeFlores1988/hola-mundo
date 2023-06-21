@@ -1,9 +1,11 @@
 # hola-mundo
 
-mi primer repositorio
+Mi primer repositorio
 
-me gusta : Pink Floyd, Led Zeppelin, The Beatles ♪♪♪
+Me gusta : Pink Floyd, Led Zeppelin, The Beatles ♪♪♪
 
-me gusta : La programacion y tocar guitarra
+Me gusta : La programacion y tocar guitarra
 
 Nacionalidad : Argentina
+
+Me gusta : El mate y el Cafe
